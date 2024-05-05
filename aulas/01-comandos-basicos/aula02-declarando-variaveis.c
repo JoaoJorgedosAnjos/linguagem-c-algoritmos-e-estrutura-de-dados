@@ -7,7 +7,7 @@ int main()
     char numero = 0;
     int number = 10;
     float n = 5.25;
-    double d = 5.0e3; //5*10^3
+    double d = 5.0e3; //5*10^3 
 
     printf( "Letra: %c\n", letra );
     printf( "Numero: %d\n", numero );
