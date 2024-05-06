@@ -8,4 +8,5 @@ int main()
     scanf("%f %f %f %f", &grade1, &grade2, &grade3, &grade4);
     averageGrade = (grade1 + grade2 + grade3 + grade4) / 4;
     printf("A média final é: %.2f\n", averageGrade);
+    return 0;
 }
