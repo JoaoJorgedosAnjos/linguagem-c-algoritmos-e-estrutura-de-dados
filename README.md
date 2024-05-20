@@ -16,6 +16,7 @@ PORTAL DE VÍDEO-AULAS PARA ESTUDO DE PROGRAMAÇÃO.
 
 https://programacaodescomplicada.wordpress.com/indice/linguagem-c/
 https://www.youtube.com/@progdescomplicada/featured
+https://github.com/arbackes
 
 ### Exercícios de Lógica de Programação em C++
 https://github.com/isquicha/exercicios-logica-c?tab=readme-ov-file
